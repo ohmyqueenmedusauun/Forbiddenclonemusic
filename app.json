@@ -30,7 +30,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://Sasuke:Sasuke@sasuke.bsab1dl.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://ohmyqueenmedusa:ohmyqueenmedusa@ohmyqueenmedusa.m2yfpsj.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
