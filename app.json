@@ -54,18 +54,18 @@
         "required": false
       },
       "SUPPORT_CHANNEL": {
-        "description": "Copy a telegram your group.",
-        "value": "https://t.me/seriousvs_version20",
+        "description": "Copy a telegram your channel.",
+        "value": "https://t.me/musicworldstech",
         "required": true
       },
-      "SUPPORT_GROUP": {
-        "description": "Copy a telegram your Channel.",
-        "value": "https://t.me/seriousvs_version10",
+      "SUPPORT_CHAT": {
+        "description": "Copy a telegram your group.",
+        "value": "https://t.me/musicworldschat",
         "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001835045094",
+        "value": "-1001992760159",
         "required": true
       }
     },
