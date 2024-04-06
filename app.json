@@ -1,5 +1,5 @@
 {
-    "name": "╰•★★ 𝔣○ｒ𝐁ìժժҽղ ✘ ᴍᴜsɪᴄ ★★•╯",
+    "name": "╰ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ╯",
     "repository": "https://github.com/ohmyqueenmedusa/ZenakuXnMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/1db76d0b5ab130f93eae6.jpg",
@@ -55,12 +55,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Copy a telegram your channel.",
-        "value": "https://t.me/musicworldstech",
+        "value": "https://t.me/seriousvs_version20",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Copy a telegram your group.",
-        "value": "https://t.me/musicworldschat",
+        "value": "https://t.me/seriosvs_version10",
         "required": true
       },
       "LOGGER_ID": {
