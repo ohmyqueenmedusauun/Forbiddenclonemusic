@@ -1,8 +1,8 @@
 {
     "name": "╰ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ╯",
-    "repository": "https://github.com/ohmyqueenmedusa/ZenakuXnMusic",
+    "repository": "https://github.com/ohmyqueenmedusauun/Forbiddenclonemusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/1db76d0b5ab130f93eae6.jpg",
+    "logo": "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21025465",
+        "value": "26176538",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "429c35d8e881de7c7814f4b2590050c1",
+        "value": "81a174c22cfe145eeaf98282e4f26d50",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,7 +30,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://ohmyqueenmedusa:ohmyqueenmedusa@ohmyqueenmedusa.m2yfpsj.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://zenaku:zenaku@zenaku.elgbygu.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
@@ -65,7 +65,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001992760159",
+        "value": "-1002122496259",
         "required": true
       }
     },
