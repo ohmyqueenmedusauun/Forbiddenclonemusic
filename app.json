@@ -1,6 +1,6 @@
 {
-    "name": "ꜰᴏʀʙɪᴅᴅᴇɴ ✘ ᴍᴜꜱɪᴄ",
-    "repository": "https://github.com/ohmyqueenmedusauun/Forbiddenclonemusic",
+    "name": "╰ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ╯",
+    "repository": "https://github.com/ohmyqueenmedusa/ZenakuXnMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/1db76d0b5ab130f93eae6.jpg",
     "keywords": [
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "26176538",
+        "value": "21025465",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "81a174c22cfe145eeaf98282e4f26d50",
+        "value": "429c35d8e881de7c7814f4b2590050c1",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,7 +30,8 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://zenaku:zenaku@zenaku.elgbygu.mongodb.net/?retryWrites=true&w=majority": true
+        "value": "mongodb+srv://ohmyqueenmedusa:ohmyqueenmedusa@ohmyqueenmedusa.m2yfpsj.mongodb.net/?retryWrites=true&w=majority",
+        "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
@@ -80,4 +81,4 @@
           }
       ],
       "stack": "container"
-  }
+}
