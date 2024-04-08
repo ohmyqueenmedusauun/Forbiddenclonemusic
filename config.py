@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ohmyqueenmedusa/ZenakuXnMusic",
+    "https://github.com/ohmyqueenmedusauun/Forbiddenclonemusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,18 +78,18 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/09999b7aaa27e422ef08e.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
